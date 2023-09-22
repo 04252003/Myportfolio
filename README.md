@@ -88,7 +88,7 @@ h2 {
 <body>
     <div class="container">
         <header>
-            <img src="juvelyn.jpg" alt=" " style="width: 150px;">
+            <img src="joyce.jpg" alt=" " style="width: 150px;">
             <h1>Bernal Joyce Nichole F.</h1>
             <p>BSCS-3A</p>
         </header>
